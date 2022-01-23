@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m currently working on:
+- New Horizons: An Outer Wilds modding tool that allows content creators to make new planets without writing a single line of code, just JSON config files!
+
 <!--
 **xen-42/xen-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
