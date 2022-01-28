@@ -12,6 +12,6 @@ A few of the projects I've created:
 I'm currently working on:
 - My [Youtube Channel](https://www.youtube.com/c/xen-dev/videos) where I showcase Godot and Unity projects I've worked on.
 - [New Horizons](https://github.com/xen-42/outer-wilds-new-horizons): An Outer Wilds modding tool allowing the creation and manipulation of planets and stars.
-- An untitled, unreleased Outer Wilds story mod made using New Horizons and featuring a new solar system to explore.
+- An Outer Wilds story mod made using New Horizons and featuring a new solar system to explore.
 
 ![Outer Wilds Dyson Sphere](https://user-images.githubusercontent.com/22628069/150701235-8c0a0499-c7fb-4a48-bf26-3fc3448d8106.png)
