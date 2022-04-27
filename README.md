@@ -11,7 +11,22 @@ A few of the projects I've created:
 - [Voxel based procedural terrain generation](https://github.com/xen-42/Minecraft-Clone) in Godot.
 - [Gerstner waves](https://github.com/xen-42/godot-waves-buoyancy) in Godot.
 - [Mockbuster Video](https://github.com/xen-42/MockbusterVideo): a tongue-in-cheek management simulator browser game written in Godot.
-- [Third Person Camera](https://github.com/xen-42/outer-wilds-third-person-camera) for Outer Wilds.
+
+I've made a bunch of Outer Wilds mods:
+- [Third Person Camera](https://github.com/xen-42/outer-wilds-third-person-camera)
+- [Static Camera](https://github.com/xen-42/outer-wilds-static-camera)
+- [Daydream](https://github.com/xen-42/outer-wilds-day-dream)
+- [Real Solar System](https://github.com/xen-42/outer-wilds-real-solar-system)
+- [New Horizons Examples](https://github.com/xen-42/ow-new-horizons-examples)
+- [Signals+](https://github.com/xen-42/outer-wilds-signals-plus)
+- [Visible Stranger](https://github.com/xen-42/ow-decloaked)
+- [Ghostbuster](https://github.com/xen-42/ow-ghostbuster)
+
+Some are just jokes tho:
+- [Outer Wario](https://github.com/xen-42/outer-wilds-wario)
+- [Outer Thomas the Tank Engine](https://github.com/xen-42/outer-wilds-tank-engine)
+- [Wrong title](https://github.com/xen-42/outer-wilds-cursed-title)
+- [Majoras Mask's Moon](https://github.com/xen-42/outer-wilds-majoras-mask)
 
 I'm currently working on:
 - My [Youtube Channel](https://www.youtube.com/c/xen-dev/videos) where I showcase Godot and Unity projects I've worked on.
