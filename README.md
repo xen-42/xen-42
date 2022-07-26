@@ -4,8 +4,6 @@
 
 Hey!
 
-My website and resume: https://xen-42.github.io/
-
 A few of the projects I've created:
 - [Asteroid Arcade](https://github.com/xen-42/Asteroid-Arcade): a space themed shoot-em up for Android or web browser.
 - [Voxel based procedural terrain generation](https://github.com/xen-42/Minecraft-Clone) in Godot.
