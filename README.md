@@ -13,7 +13,7 @@ A few of the projects I've created:
 I've made a bunch of Outer Wilds mods:
 - Camera mods: [Third Person Camera](https://github.com/xen-42/outer-wilds-third-person-camera), [Static Camera](https://github.com/xen-42/outer-wilds-static-camera), which both use my [Common Camera Utility](https://github.com/xen-42/ow-common-camera-util).
 - Some reimaginings of base game content: [Daydream](https://github.com/xen-42/outer-wilds-day-dream), [Visible Stranger](https://github.com/xen-42/ow-decloaked), [Ghostbuster](https://github.com/xen-42/ow-ghostbuster), [Signals+](https://github.com/xen-42/outer-wilds-signals-plus).
-- Some content mods: [Real Solar System](https://github.com/xen-42/outer-wilds-real-solar-system), [New Horizons Examples](https://github.com/xen-42/ow-new-horizons-examples).
+- Some content mods: [Real Solar System](https://github.com/xen-42/outer-wilds-real-solar-system), [New Horizons Examples](https://github.com/Outer-Wilds-New-Horizons/nh-examples).
 - [Outer Wilds Achievements+](https://github.com/xen-42/outer-wilds-achievement-tracker): An achievement tracker for Outer Wilds and for custom modded achievements.
 
 - Some jokes: [Outer Wario](https://github.com/xen-42/outer-wilds-wario), [Outer Thomas the Tank Engine](https://github.com/xen-42/outer-wilds-tank-engine), [Wrong title](https://github.com/xen-42/outer-wilds-cursed-title), [Majoras Mask's Moon](https://github.com/xen-42/outer-wilds-majoras-mask).
