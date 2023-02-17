@@ -1,4 +1,4 @@
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dxen42%26type%3Dpatrons&style=flat)](https://www.patreon.com/user?u=88552375) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPsSoOCRNIj-eo2UbXfcdAw)](https://www.youtube.com/channel/UCPsSoOCRNIj-eo2UbXfcdAw)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dxen42%26type%3Dpatrons&style=flat)](https://www.patreon.com/user?u=88552375) 
 
 ---
 
