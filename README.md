@@ -23,4 +23,6 @@ I also help run the infrastructure for [Outer Wilds Mods](https://github.com/ow-
 
 I have a [Youtube Channel](https://www.youtube.com/c/xen-dev/videos) where I showcase Godot and Unity projects I've worked on.
 
+I have free browser games on [itch.io](https://xen-dev.itch.io/)!
+
 ![Outer Wilds Dyson Sphere](https://user-images.githubusercontent.com/22628069/150701235-8c0a0499-c7fb-4a48-bf26-3fc3448d8106.png)
