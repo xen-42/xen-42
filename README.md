@@ -8,7 +8,7 @@ I created an open source Outer Wilds modding tool which allows for the creation 
 
 I also help run the infrastructure for [Outer Wilds Mods](https://github.com/ow-mods) including the [website](https://outerwildsmods.com/), mod manager, database, and more.
 
-I created a [DREDGE mods website](https://dredgemods.com/) with a [mod manager](https://github.com/DREDGE-Mods/DredgeModManager) and [database](https://github.com/DREDGE-Mods/DredgeModDatabase) for distributing DREDGE mods including my own multiplayer mod, [Cosmic Horror Fishing Buddies](https://dredgemods.com/mods/cosmic_horror_fishing_buddies/).
+I created a [mod manager](https://github.com/DREDGE-Mods/DredgeModManager) and [database](https://github.com/DREDGE-Mods/DredgeModDatabase) for distributing DREDGE mods including my own multiplayer mod, [Cosmic Horror Fishing Buddies](https://dredgemods.com/mods/cosmic_horror_fishing_buddies/). Find out more on [dredgemods.com](https://dredgemods.com/)
 
 I'm also making a DREDGE VR mod, early access available on my [Patreon](https://www.patreon.com/xen42)
 
