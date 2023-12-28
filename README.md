@@ -13,8 +13,3 @@ I also created a [mod manager](https://github.com/DREDGE-Mods/DredgeModManager) 
 ___
 
 ![Outer Wilds Dyson Sphere](https://user-images.githubusercontent.com/22628069/150701235-8c0a0499-c7fb-4a48-bf26-3fc3448d8106.png)
-
-___
-
-Derivation of "linear" gravity in Outer Wilds for no reason:
-[Linear_gravity.pdf](https://github.com/xen-42/xen-42/files/13784556/Linear_gravity.pdf)
